@@ -1,0 +1,15 @@
+﻿<Properties StartupConfiguration="{E557978D-9EF3-568E-AD59-88AE2D124AF0}|">
+  <MonoDevelop.Ide.Workbench ActiveDocument="Assets/Scripts/GeneratePickups.cs">
+    <Files>
+      <File FileName="Assets/Scripts/PlayerController.cs" Line="44" Column="7" />
+      <File FileName="Assets/Scripts/GeneratePickups.cs" Line="30" Column="23" />
+    </Files>
+  </MonoDevelop.Ide.Workbench>
+  <MonoDevelop.Ide.DebuggingService.PinnedWatches />
+  <MonoDevelop.Ide.Workspace ActiveConfiguration="Debug" />
+  <MonoDevelop.Ide.ItemProperties.Assembly-CSharp PreferredExecutionTarget="Unity.Editor" />
+  <MonoDevelop.Ide.DebuggingService.Breakpoints>
+    <BreakpointStore />
+  </MonoDevelop.Ide.DebuggingService.Breakpoints>
+  <MultiItemStartupConfigurations />
+</Properties>
